@@ -48,11 +48,43 @@ https://kovan.etherscan.io/address/0xDe0e6D96018325A06E2c888ce9559aE99Ac7EC99
 
 
 
+### Register Keeper Upkeep for the contract (2nd part)
+
+This step will tell the Keepers that you need to start looking at this contract. This is still done all On-Chain.
+
+We pre-fund the Keepers with Link. 
+
+![image-20211118190209945](Images/UpKeepREgister.png)
 
 
 
 
-### Docs
+
+
+
+![viewUpkeep](Images/viewUpkeep.png)
+
+
+
+
+
+
+
+### Keepers Result!
+
+After 2 mins. now the Counter is at 2. So we see every minute the Keepers are checing and running the Function performUpkeep.
+
+![image-20211118190545621](Images/2minsRemixView.png)
+
+
+
+
+
+
+
+
+
+### Info Docs
 
 https://docs.chain.link/docs/chainlink-keepers/introduction/
 
