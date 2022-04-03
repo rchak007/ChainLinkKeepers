@@ -72,7 +72,7 @@ We pre-fund the Keepers with Link.
 
 ### Keepers Result!
 
-After 2 mins. now the Counter is at 2. So we see every minute the Keepers are checing and running the Function performUpkeep.
+After 2 mins. now the Counter is at 2, So we see every minute the Keepers are checing and running the Function performUpkeep.
 
 ![image-20211118190545621](Images/2minsRemixView.png)
 
